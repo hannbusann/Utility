@@ -170,6 +170,7 @@ namespace dmotion {
                 return std::atan(opposite / neighbor) - M_PI;
         }
     }
+
 }
 
 
